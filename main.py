@@ -1,7 +1,8 @@
 def hello():
-   print("hello everyone")
+    print("hello everyone")
+
+def greetWhite():
+    print("hello white")
 
 if __name__ == "__main__":
     hello()
-    def greetWhite():
-    print("hello white")
