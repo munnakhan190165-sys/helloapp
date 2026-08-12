@@ -1,8 +1,13 @@
 def hello():
     print("hello everyone")
 
-def greetWhite():
+def greetwhite():
     print("hello white")
+
+def greetBlack():
+    print("hello black")
 
 if __name__ == "__main__":
     hello()
+    greetwhite()
+    greetBlack()
